@@ -37,7 +37,7 @@ class Bird:
         """
         self.x = x
         self.y = y
-        self.tilt = 0  # degrees to tilt...
+        self.tilt = 0 
         self.tick_count = 0
         self.vel = 0
         self.height = self.y
